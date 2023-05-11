@@ -1,0 +1,54 @@
+
+>
+java:S1604L"(Make this anonymous inner class a lambda(²Ø 
+>
+java:S1604š"(Make this anonymous inner class a lambda(…® 
+?
+java:S1604º"(Make this anonymous inner class a lambda(¯ı©
+D
+java:S1604Ì"(Make this anonymous inner class a lambda(Ø¬ëêÿÿÿÿÿ
+D
+java:S1604œ"(Make this anonymous inner class a lambda(‹‚ñÖûÿÿÿÿ
+?
+java:S1604½"(Make this anonymous inner class a lambda(õÂºÖ
+>
+java:S1604Ä"(Make this anonymous inner class a lambda(–˜¢
+?
+java:S1604Ë"(Make this anonymous inner class a lambda(îÎºÇ
+.
+java:S1700,"Rename field "mainFrame"(êò°
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìºéÚ
+J
+java:S2755ˆ"3Disable access to external entities in XML parsing.(İ‰Ë–
+O
+java:S2755¦"3Disable access to external entities in XML parsing.(ÂÿÕ‹ÿÿÿÿÿ
+O
+java:S2755¤"3Disable access to external entities in XML parsing.(ÂÿÕ‹ÿÿÿÿÿ
+J
+java:S2755‡"3Disable access to external entities in XML parsing.(İ‰Ë–
+X
+java:S32524"=Use static access with "java.awt.Frame" for "MAXIMIZED_BOTH".(Ú§¾Ğıÿÿÿÿ
+_
+java:S32525"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Â÷‚À
+h
+java:S3776B"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÍëÀ‰
+a
+java:S2147‘"ECombine this catch with the one at line 143, which has the same body.(™£‹Àÿÿÿÿÿ
+[
+java:S2147“"ECombine this catch with the one at line 143, which has the same body.(İ£½}
+\
+java:S2147±"ECombine this catch with the one at line 175, which has the same body.(¶ùø
+\
+java:S2147³"ECombine this catch with the one at line 175, which has the same body.(Ãôş•
+i
+java:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÄâÏ’
+a
+java:S2147’"ECombine this catch with the one at line 272, which has the same body.(™£‹Àÿÿÿÿÿ
+[
+java:S2147”"ECombine this catch with the one at line 272, which has the same body.(İ£½}
+\
+java:S2147³"ECombine this catch with the one at line 305, which has the same body.(¶ùø
+\
+java:S2147µ"ECombine this catch with the one at line 305, which has the same body.(Ãôş•
+J
+java:S1128"/Remove this unused import 'javax.swing.Action'.(›ëÆ­ùÿÿÿÿ
