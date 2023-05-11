@@ -1,12 +1,0 @@
-
-=
-java:S1604w"(Make this anonymous inner class a lambda(¸îÁe
-m
-java:S1104"RMake dialog a static final constant or non-public and provide accessors if needed.(úï¹Èşÿÿÿÿ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìºéÚ
-b
-java:S3252>"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(Ì—İ
-B
-java:S1068"-Remove this unused "mainFrame" private field.(¸†V
-I
-java:S1068".Remove this unused "controller" private field.(š·Âëüÿÿÿÿ
